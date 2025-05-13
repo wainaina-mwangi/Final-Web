@@ -72,5 +72,5 @@ You can host this website for free using:
 
 1. Clone or download this repo:
    ```bash
-   git clone https://github.com/your-username/spa-bliss.git
+git clone https://github.com/wainaina-mwangi/Final-Web.git
 
